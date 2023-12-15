@@ -23,7 +23,6 @@ I'm a FrontEnd developer building with React, Vue, Next and TypeScript. I am ava
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" height="50" style="vertical-align:top;">
     <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="50" style="vertical-align:top;">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="50" style="vertical-align:top;">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="50" style="vertical-align:top;">
     <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/html/html.png" alt="HTML" height="50" style="vertical-align:top;">
     <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/css/css.png" alt="CSS" height="50" style="vertical-align:top;">
     <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sass/sass.png" alt="CSS" height="50" style="vertical-align:top;">
