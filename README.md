@@ -13,8 +13,8 @@ I'm a FrontEnd developer building with React, Vue, Next and TypeScript. I am ava
 - 💻 I’m a pre-final year Computer Science Student, with tremendous passion for frontend development;
 - 💬 I have worked for about 4 years as a FrontEnd developer
 - 👩‍🏫 I have been working as a mentor at the programming school for more than 2 years, so contact me if you have questions about IT
-- 🎈 I'm a Microsoft Learn Student Ambassador - Beta;
-- 📫 Reach out to me: mahima8301@gmail.com
+- 📫 Reach out to me: khudaibergenkyzy.n@gmail.com
+- <img align="left" alt="Nurailym's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> Or you can follow my instagram and contact with me: khudaibergenkyzyn
 
 **Languages and Tools:**
 
