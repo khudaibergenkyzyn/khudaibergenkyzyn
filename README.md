@@ -1,26 +1,19 @@
 ## **Hey, I'm Nurailym!** 👋
 
 Welcome to my GitHub profile, have a pleasant stay!
-
 <br />
 
-## **❓ Who Am I?**
+## **Who Am I❓**
 
 I'm a FrontEnd developer building with React, Vue, Next and TypeScript. I am available for work 📩
-
 <br />
-<br />
-Hello folks, I'm Mahima Khatri, an aspiring Web Developer. I'm proficient in C, C++, Python, HTML, CSS.
-I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful websites through my work!
-Please feel free to reach out and talk about ideas!
 
 ## More about me:
 
-- 💻 I’m a pre-final year Computer Science Student, with tremendous passion for web development;
-- 💪 Ask me about Web Development, Cloud Computing ;
-- 💬 Worked as a Cloud Security Intern @ Ministry of Electronics and Information Technology;
+- 💻 I’m a pre-final year Computer Science Student, with tremendous passion for frontend development;
+- 💬 I have worked for about 4 years as a FrontEnd developer
+- 👩‍🏫 I have been working as a mentor at the programming school for more than 2 years, so contact me if you have questions about IT
 - 🎈 I'm a Microsoft Learn Student Ambassador - Beta;
-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects**
 - 📫 Reach out to me: mahima8301@gmail.com
 
 **Languages and Tools:**
