@@ -37,10 +37,8 @@ I'm a FrontEnd developer building with React, Vue, Next and TypeScript. I am ava
     <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sql/sql.png" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
  </p>
   </br>
-<p align="center">Show ❤️  by starring and forking repositories you find helpful and Don't forget to follow ! </p>
-<p align="center"><img src="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" alt="Thanks!" data-canonical-src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" style="max-width:100%;"> </p>
 
-- [Data Types and Operators in
+## Find me around the web 🌏:
 
 <a href="https://www.linkedin.com/in/khudaibergenkyzyn">
   <img align="left" alt="Nurailym's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
